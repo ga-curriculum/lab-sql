@@ -13,4 +13,4 @@ In the context of the data science workflow, SQL is most commonly used when obta
 5. Evaluate the model.
 6. Answer the problem.
 
-This lab involves the famous Northwind database.
+This lab involves the Iowa Liquor database.
