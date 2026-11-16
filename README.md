@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) SQL Practice Lab
+# <picture><img src="https://ga-curriculum.github.io/universal-resources-internal/ga-logos/ga-red-cog-128x128.png" alt="" height="48" align="absmiddle"></picture> SQL Practice Lab
 
 Querying data from a database is a very common skill needed when practicing data science. Structured Query Language, abbreviated SQL, is one of the most common methods of pulling information from databases for further analysis.
 
